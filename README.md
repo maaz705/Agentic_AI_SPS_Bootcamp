@@ -12,9 +12,9 @@ Through this course, you will learn how to **understand, build, and interact wit
 
 Unlike traditional or generative AI (like ChatGPT), **Agentic AI** has the ability to:
 
-- Understand and adapt to its environment
-- Set goals and make decisions to achieve them
-- Interact with humans, tools, and systems to complete tasks
+- Understand and adapt to its environment  
+- Set goals and make decisions to achieve them  
+- Interact with humans, tools, and systems to complete tasks  
 
 Imagine your AI being more than a chatbot—it becomes your **virtual assistant, researcher, planner, and executor**. That’s what **Agentic AI** brings to the table.
 
@@ -25,9 +25,9 @@ Imagine your AI being more than a chatbot—it becomes your **virtual assistant,
 ### 1️⃣ Foundations of AI & Agentic Intelligence  
 We start from the **very beginning**—no assumptions, no technical jargon. You’ll understand:
 
-- What is Artificial Intelligence?
-- Where do we use AI in real life?
-- Difference between Generative AI and Agentic AI
+- What is Artificial Intelligence?  
+- Where do we use AI in real life?  
+- Difference between Generative AI and Agentic AI  
 - How agents work using real-world analogies (like personal assistants, robots, etc.)
 
 > 🎯 **Goal**: Build confidence in your understanding of AI—even if you're hearing these terms for the first time.
@@ -37,9 +37,9 @@ We start from the **very beginning**—no assumptions, no technical jargon. You�
 ### 2️⃣ Python Programming for Absolute Beginners  
 Python is the heart of modern AI—and don’t worry, we’ll make it **fun and beginner-friendly**.
 
-- Writing your very first program (“Hello, World!”)
-- Understanding data types, variables, loops, and conditions
-- Working with functions and lists
+- Writing your very first program (“Hello, World!”)  
+- Understanding data types, variables, loops, and conditions  
+- Working with functions and lists  
 - Fun coding challenges with step-by-step support
 
 > 🎯 **Goal**: Eliminate coding fear and build practical Python skills—**from zero**.
@@ -49,9 +49,9 @@ Python is the heart of modern AI—and don’t worry, we’ll make it **fun and 
 ### 3️⃣ Building Modern AI with Python  
 Now that you can code, it’s time to explore how Python helps you **build real AI systems**.
 
-- What is Machine Learning? How does a computer “learn”?
-- Predicting outcomes using models and datasets
-- Visualizing results with charts and graphs
+- What is Machine Learning? How does a computer “learn”?  
+- Predicting outcomes using models and datasets  
+- Visualizing results with charts and graphs  
 - Mini projects: spam detectors, stock predictors, basic chatbots
 
 > 🎯 **Goal**: Apply your knowledge to real-world AI tasks in a guided and exciting way.
@@ -61,9 +61,9 @@ Now that you can code, it’s time to explore how Python helps you **build real 
 ### 4️⃣ Mastering the OpenAI Agents SDK  
 This is where things get really **hands-on and powerful**. You will now build **Agentic AI tools** using the latest SDK from OpenAI.
 
-- What is the Agents SDK?
-- How to create and register tools for your agent
-- How your agent makes decisions based on goals and tools
+- What is the Agents SDK?  
+- How to create and register tools for your agent  
+- How your agent makes decisions based on goals and tools  
 - Advanced logic: handoffs, memory, tool filtering, decision flow
 
 > 🎯 **Goal**: Build AI agents that can **plan and act**—just like a smart assistant or a business automation tool.
@@ -73,9 +73,9 @@ This is where things get really **hands-on and powerful**. You will now build **
 ### 5️⃣ Beautiful UIs and AI Deployment *(Coming Soon)*  
 In the final phase (Inshallah), we will teach you how to:
 
-- Design user interfaces (UI) that make your AI projects interactive
-- Use HTML, CSS, and simple frontend tools
-- Deploy your AI to the internet (web apps, etc.)
+- Design user interfaces (UI) that make your AI projects interactive  
+- Use HTML, CSS, and simple frontend tools  
+- Deploy your AI to the internet (web apps, etc.)  
 - Share your work with friends, clients, or potential employers
 
 > 🎯 **Goal**: Make your AI usable and visible in the real world.
@@ -116,12 +116,6 @@ By the end of this course, you’ll be able to:
 - Collaborate on AI projects and even pursue freelancing
 
 > 🌟 **You don’t just learn AI—you become a creator of it.**
-
----
-
-## 📸 Course Poster
-
-![Agentic AI Bootcamp Poster](./agentic_ai_bootcamp_poster.jpg)
 
 ---
 
