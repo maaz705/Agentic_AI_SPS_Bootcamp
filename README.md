@@ -1,4 +1,4 @@
-# 🌟 Agentic AI Bootcamp by Saqib Coaching System
+# 🌟 Agentic AI Course by Saqib Coaching System
 
 Welcome to the **Agentic AI Bootcamp**, an inspiring and career-transforming journey into the world of Artificial Intelligence—proudly brought to you by the **Saqib Coaching System**, hosted at **Saqib Public School**.
 
